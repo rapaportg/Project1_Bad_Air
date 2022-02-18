@@ -1,0 +1,598 @@
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Autauga')" class="dropdown-item" >Autauga, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Colbert')" class="dropdown-item" >Colbert, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Jackson')" class="dropdown-item" >Jackson, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Jefferson')" class="dropdown-item" >Jefferson, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Lauderdale')" class="dropdown-item" >Lauderdale, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Madison')" class="dropdown-item" >Madison, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Mobile')" class="dropdown-item" >Mobile, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Monroe')" class="dropdown-item" >Monroe, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Morgan')" class="dropdown-item" >Morgan, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alabama', 'Tuscaloosa')" class="dropdown-item" >Tuscaloosa, Alabama</button>
+<button type="button" onclick="saveVisRightInputs('Alaska', 'Anchorage ')" class="dropdown-item" >Anchorage , Alaska</button>
+<button type="button" onclick="saveVisRightInputs('Alaska', 'Fairbanks North Star ')" class="dropdown-item" >Fairbanks North Star , Alaska</button>
+<button type="button" onclick="saveVisRightInputs('Alaska', 'North Slope ')" class="dropdown-item" >North Slope , Alaska</button>
+<button type="button" onclick="saveVisRightInputs('Alaska', 'Valdez-Cordova ')" class="dropdown-item" >Valdez-Cordova , Alaska</button>
+<button type="button" onclick="saveVisRightInputs('Arizona', 'Cochise')" class="dropdown-item" >Cochise, Arizona</button>
+<button type="button" onclick="saveVisRightInputs('Arizona', 'Coconino')" class="dropdown-item" >Coconino, Arizona</button>
+<button type="button" onclick="saveVisRightInputs('Arizona', 'Gila')" class="dropdown-item" >Gila, Arizona</button>
+<button type="button" onclick="saveVisRightInputs('Arizona', 'Greenlee')" class="dropdown-item" >Greenlee, Arizona</button>
+<button type="button" onclick="saveVisRightInputs('Arizona', 'Maricopa')" class="dropdown-item" >Maricopa, Arizona</button>
+<button type="button" onclick="saveVisRightInputs('Arizona', 'Pima')" class="dropdown-item" >Pima, Arizona</button>
+<button type="button" onclick="saveVisRightInputs('Arizona', 'Pinal')" class="dropdown-item" >Pinal, Arizona</button>
+<button type="button" onclick="saveVisRightInputs('Arizona', 'Yavapai')" class="dropdown-item" >Yavapai, Arizona</button>
+<button type="button" onclick="saveVisRightInputs('Arizona', 'Yuma')" class="dropdown-item" >Yuma, Arizona</button>
+<button type="button" onclick="saveVisRightInputs('Arkansas', 'Crittenden')" class="dropdown-item" >Crittenden, Arkansas</button>
+<button type="button" onclick="saveVisRightInputs('Arkansas', 'Pulaski')" class="dropdown-item" >Pulaski, Arkansas</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Alameda')" class="dropdown-item" >Alameda, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Butte')" class="dropdown-item" >Butte, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Colusa')" class="dropdown-item" >Colusa, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Contra Costa')" class="dropdown-item" >Contra Costa, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'El Dorado')" class="dropdown-item" >El Dorado, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Fresno')" class="dropdown-item" >Fresno, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Glenn')" class="dropdown-item" >Glenn, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Imperial')" class="dropdown-item" >Imperial, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Inyo')" class="dropdown-item" >Inyo, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Kern')" class="dropdown-item" >Kern, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Kings')" class="dropdown-item" >Kings, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Lake')" class="dropdown-item" >Lake, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Los Angeles')" class="dropdown-item" >Los Angeles, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Marin')" class="dropdown-item" >Marin, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Mendocino')" class="dropdown-item" >Mendocino, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Mono')" class="dropdown-item" >Mono, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Monterey')" class="dropdown-item" >Monterey, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Napa')" class="dropdown-item" >Napa, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Orange')" class="dropdown-item" >Orange, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Placer')" class="dropdown-item" >Placer, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Riverside')" class="dropdown-item" >Riverside, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Sacramento')" class="dropdown-item" >Sacramento, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'San Benito')" class="dropdown-item" >San Benito, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'San Bernardino')" class="dropdown-item" >San Bernardino, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'San Diego')" class="dropdown-item" >San Diego, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'San Francisco')" class="dropdown-item" >San Francisco, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'San Joaquin')" class="dropdown-item" >San Joaquin, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'San Luis Obispo')" class="dropdown-item" >San Luis Obispo, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'San Mateo')" class="dropdown-item" >San Mateo, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Santa Barbara')" class="dropdown-item" >Santa Barbara, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Santa Clara')" class="dropdown-item" >Santa Clara, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Santa Cruz')" class="dropdown-item" >Santa Cruz, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Shasta')" class="dropdown-item" >Shasta, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Solano')" class="dropdown-item" >Solano, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Sonoma')" class="dropdown-item" >Sonoma, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Stanislaus')" class="dropdown-item" >Stanislaus, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Sutter')" class="dropdown-item" >Sutter, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Tulare')" class="dropdown-item" >Tulare, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Tuolumne')" class="dropdown-item" >Tuolumne, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Ventura')" class="dropdown-item" >Ventura, California</button>
+<button type="button" onclick="saveVisRightInputs('California', 'Yolo')" class="dropdown-item" >Yolo, California</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'Adams')" class="dropdown-item" >Adams, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'Arapahoe')" class="dropdown-item" >Arapahoe, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'Boulder')" class="dropdown-item" >Boulder, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'Denver')" class="dropdown-item" >Denver, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'El Paso')" class="dropdown-item" >El Paso, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'Jefferson')" class="dropdown-item" >Jefferson, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'Larimer')" class="dropdown-item" >Larimer, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'Mesa')" class="dropdown-item" >Mesa, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'Pueblo')" class="dropdown-item" >Pueblo, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Colorado', 'Weld')" class="dropdown-item" >Weld, Colorado</button>
+<button type="button" onclick="saveVisRightInputs('Connecticut', 'Fairfield')" class="dropdown-item" >Fairfield, Connecticut</button>
+<button type="button" onclick="saveVisRightInputs('Connecticut', 'Hartford')" class="dropdown-item" >Hartford, Connecticut</button>
+<button type="button" onclick="saveVisRightInputs('Connecticut', 'Litchfield')" class="dropdown-item" >Litchfield, Connecticut</button>
+<button type="button" onclick="saveVisRightInputs('Connecticut', 'Middlesex')" class="dropdown-item" >Middlesex, Connecticut</button>
+<button type="button" onclick="saveVisRightInputs('Connecticut', 'New Haven')" class="dropdown-item" >New Haven, Connecticut</button>
+<button type="button" onclick="saveVisRightInputs('Connecticut', 'Tolland')" class="dropdown-item" >Tolland, Connecticut</button>
+<button type="button" onclick="saveVisRightInputs('Delaware', 'Kent')" class="dropdown-item" >Kent, Delaware</button>
+<button type="button" onclick="saveVisRightInputs('Delaware', 'New Castle')" class="dropdown-item" >New Castle, Delaware</button>
+<button type="button" onclick="saveVisRightInputs('Delaware', 'Sussex')" class="dropdown-item" >Sussex, Delaware</button>
+<button type="button" onclick="saveVisRightInputs('District Of Columbia', 'District of Columbia')" class="dropdown-item" >District of Columbia, District Of Columbia</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Alachua')" class="dropdown-item" >Alachua, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Bay')" class="dropdown-item" >Bay, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Brevard')" class="dropdown-item" >Brevard, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Broward')" class="dropdown-item" >Broward, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Citrus')" class="dropdown-item" >Citrus, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Duval')" class="dropdown-item" >Duval, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Escambia')" class="dropdown-item" >Escambia, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Gadsden')" class="dropdown-item" >Gadsden, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Hillsborough')" class="dropdown-item" >Hillsborough, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Holmes')" class="dropdown-item" >Holmes, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Jackson')" class="dropdown-item" >Jackson, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Lee')" class="dropdown-item" >Lee, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Leon')" class="dropdown-item" >Leon, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Manatee')" class="dropdown-item" >Manatee, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Miami-Dade')" class="dropdown-item" >Miami-Dade, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Nassau')" class="dropdown-item" >Nassau, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Orange')" class="dropdown-item" >Orange, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Palm Beach')" class="dropdown-item" >Palm Beach, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Pinellas')" class="dropdown-item" >Pinellas, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'Seminole')" class="dropdown-item" >Seminole, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Florida', 'St. Johns')" class="dropdown-item" >St. Johns, Florida</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Baldwin')" class="dropdown-item" >Baldwin, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Bibb')" class="dropdown-item" >Bibb, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Chatham')" class="dropdown-item" >Chatham, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Coweta')" class="dropdown-item" >Coweta, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'DeKalb')" class="dropdown-item" >DeKalb, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Fannin')" class="dropdown-item" >Fannin, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Floyd')" class="dropdown-item" >Floyd, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Fulton')" class="dropdown-item" >Fulton, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Glynn')" class="dropdown-item" >Glynn, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Mitchell')" class="dropdown-item" >Mitchell, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Muscogee')" class="dropdown-item" >Muscogee, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Paulding')" class="dropdown-item" >Paulding, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Richmond')" class="dropdown-item" >Richmond, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Rockdale')" class="dropdown-item" >Rockdale, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Georgia', 'Wheeler')" class="dropdown-item" >Wheeler, Georgia</button>
+<button type="button" onclick="saveVisRightInputs('Hawaii', 'Honolulu')" class="dropdown-item" >Honolulu, Hawaii</button>
+<button type="button" onclick="saveVisRightInputs('Idaho', 'Ada')" class="dropdown-item" >Ada, Idaho</button>
+<button type="button" onclick="saveVisRightInputs('Idaho', 'Bannock')" class="dropdown-item" >Bannock, Idaho</button>
+<button type="button" onclick="saveVisRightInputs('Idaho', 'Caribou')" class="dropdown-item" >Caribou, Idaho</button>
+<button type="button" onclick="saveVisRightInputs('Idaho', 'Shoshone')" class="dropdown-item" >Shoshone, Idaho</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Adams')" class="dropdown-item" >Adams, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Champaign')" class="dropdown-item" >Champaign, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Cook')" class="dropdown-item" >Cook, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Crawford')" class="dropdown-item" >Crawford, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'DuPage')" class="dropdown-item" >DuPage, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Kane')" class="dropdown-item" >Kane, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'La Salle')" class="dropdown-item" >La Salle, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Lake')" class="dropdown-item" >Lake, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Macon')" class="dropdown-item" >Macon, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Macoupin')" class="dropdown-item" >Macoupin, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Madison')" class="dropdown-item" >Madison, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Massac')" class="dropdown-item" >Massac, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'McHenry')" class="dropdown-item" >McHenry, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Monroe')" class="dropdown-item" >Monroe, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Peoria')" class="dropdown-item" >Peoria, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Rock Island')" class="dropdown-item" >Rock Island, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Saint Clair')" class="dropdown-item" >Saint Clair, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Sangamon')" class="dropdown-item" >Sangamon, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Tazewell')" class="dropdown-item" >Tazewell, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Wabash')" class="dropdown-item" >Wabash, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Will')" class="dropdown-item" >Will, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Williamson')" class="dropdown-item" >Williamson, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Illinois', 'Winnebago')" class="dropdown-item" >Winnebago, Illinois</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Allen')" class="dropdown-item" >Allen, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Clark')" class="dropdown-item" >Clark, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Daviess')" class="dropdown-item" >Daviess, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Dearborn')" class="dropdown-item" >Dearborn, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Delaware')" class="dropdown-item" >Delaware, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Floyd')" class="dropdown-item" >Floyd, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Fountain')" class="dropdown-item" >Fountain, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Gibson')" class="dropdown-item" >Gibson, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Hamilton')" class="dropdown-item" >Hamilton, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Hancock')" class="dropdown-item" >Hancock, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Howard')" class="dropdown-item" >Howard, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Jasper')" class="dropdown-item" >Jasper, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Jefferson')" class="dropdown-item" >Jefferson, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Knox')" class="dropdown-item" >Knox, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Kosciusko')" class="dropdown-item" >Kosciusko, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'LaPorte')" class="dropdown-item" >LaPorte, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Lake')" class="dropdown-item" >Lake, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Marion')" class="dropdown-item" >Marion, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Porter')" class="dropdown-item" >Porter, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Posey')" class="dropdown-item" >Posey, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Spencer')" class="dropdown-item" >Spencer, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'St. Joseph')" class="dropdown-item" >St. Joseph, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Sullivan')" class="dropdown-item" >Sullivan, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Vanderburgh')" class="dropdown-item" >Vanderburgh, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Vermillion')" class="dropdown-item" >Vermillion, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Vigo')" class="dropdown-item" >Vigo, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Warrick')" class="dropdown-item" >Warrick, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Indiana', 'Wayne')" class="dropdown-item" >Wayne, Indiana</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Black Hawk')" class="dropdown-item" >Black Hawk, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Dubuque')" class="dropdown-item" >Dubuque, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Johnson')" class="dropdown-item" >Johnson, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Linn')" class="dropdown-item" >Linn, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Madison')" class="dropdown-item" >Madison, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Muscatine')" class="dropdown-item" >Muscatine, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Polk')" class="dropdown-item" >Polk, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Scott')" class="dropdown-item" >Scott, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Story')" class="dropdown-item" >Story, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Iowa', 'Woodbury')" class="dropdown-item" >Woodbury, Iowa</button>
+<button type="button" onclick="saveVisRightInputs('Kansas', 'Johnson')" class="dropdown-item" >Johnson, Kansas</button>
+<button type="button" onclick="saveVisRightInputs('Kansas', 'Sedgwick')" class="dropdown-item" >Sedgwick, Kansas</button>
+<button type="button" onclick="saveVisRightInputs('Kansas', 'Wyandotte')" class="dropdown-item" >Wyandotte, Kansas</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Boone')" class="dropdown-item" >Boone, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Boyd')" class="dropdown-item" >Boyd, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Boyle')" class="dropdown-item" >Boyle, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Bullitt')" class="dropdown-item" >Bullitt, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Calloway')" class="dropdown-item" >Calloway, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Campbell')" class="dropdown-item" >Campbell, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Carroll')" class="dropdown-item" >Carroll, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Clark')" class="dropdown-item" >Clark, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Daviess')" class="dropdown-item" >Daviess, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Fayette')" class="dropdown-item" >Fayette, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Hancock')" class="dropdown-item" >Hancock, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Hardin')" class="dropdown-item" >Hardin, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Henderson')" class="dropdown-item" >Henderson, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Hopkins')" class="dropdown-item" >Hopkins, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Jefferson')" class="dropdown-item" >Jefferson, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Kenton')" class="dropdown-item" >Kenton, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'McCracken')" class="dropdown-item" >McCracken, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Mercer')" class="dropdown-item" >Mercer, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Muhlenberg')" class="dropdown-item" >Muhlenberg, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Ohio')" class="dropdown-item" >Ohio, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Pulaski')" class="dropdown-item" >Pulaski, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Trigg')" class="dropdown-item" >Trigg, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Kentucky', 'Trimble')" class="dropdown-item" >Trimble, Kentucky</button>
+<button type="button" onclick="saveVisRightInputs('Louisiana', 'Bossier')" class="dropdown-item" >Bossier, Louisiana</button>
+<button type="button" onclick="saveVisRightInputs('Louisiana', 'Calcasieu')" class="dropdown-item" >Calcasieu, Louisiana</button>
+<button type="button" onclick="saveVisRightInputs('Louisiana', 'East Baton Rouge')" class="dropdown-item" >East Baton Rouge, Louisiana</button>
+<button type="button" onclick="saveVisRightInputs('Louisiana', 'Grant')" class="dropdown-item" >Grant, Louisiana</button>
+<button type="button" onclick="saveVisRightInputs('Louisiana', 'Iberville')" class="dropdown-item" >Iberville, Louisiana</button>
+<button type="button" onclick="saveVisRightInputs('Louisiana', 'Orleans')" class="dropdown-item" >Orleans, Louisiana</button>
+<button type="button" onclick="saveVisRightInputs('Louisiana', 'St. Charles')" class="dropdown-item" >St. Charles, Louisiana</button>
+<button type="button" onclick="saveVisRightInputs('Louisiana', 'St. John the Baptist')" class="dropdown-item" >St. John the Baptist, Louisiana</button>
+<button type="button" onclick="saveVisRightInputs('Maine', 'Androscoggin')" class="dropdown-item" >Androscoggin, Maine</button>
+<button type="button" onclick="saveVisRightInputs('Maine', 'Aroostook')" class="dropdown-item" >Aroostook, Maine</button>
+<button type="button" onclick="saveVisRightInputs('Maine', 'Cumberland')" class="dropdown-item" >Cumberland, Maine</button>
+<button type="button" onclick="saveVisRightInputs('Maine', 'Franklin')" class="dropdown-item" >Franklin, Maine</button>
+<button type="button" onclick="saveVisRightInputs('Maine', 'Kennebec')" class="dropdown-item" >Kennebec, Maine</button>
+<button type="button" onclick="saveVisRightInputs('Maine', 'Knox')" class="dropdown-item" >Knox, Maine</button>
+<button type="button" onclick="saveVisRightInputs('Maine', 'Oxford')" class="dropdown-item" >Oxford, Maine</button>
+<button type="button" onclick="saveVisRightInputs('Maine', 'Penobscot')" class="dropdown-item" >Penobscot, Maine</button>
+<button type="button" onclick="saveVisRightInputs('Maine', 'Washington')" class="dropdown-item" >Washington, Maine</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Allegany')" class="dropdown-item" >Allegany, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Anne Arundel')" class="dropdown-item" >Anne Arundel, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Baltimore')" class="dropdown-item" >Baltimore, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Baltimore (City)')" class="dropdown-item" >Baltimore (City), Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Cecil')" class="dropdown-item" >Cecil, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Frederick')" class="dropdown-item" >Frederick, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Harford')" class="dropdown-item" >Harford, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Howard')" class="dropdown-item" >Howard, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Montgomery')" class="dropdown-item" >Montgomery, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Prince George's')" class="dropdown-item" >Prince George's, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Maryland', 'Washington')" class="dropdown-item" >Washington, Maryland</button>
+<button type="button" onclick="saveVisRightInputs('Massachusetts', 'Berkshire')" class="dropdown-item" >Berkshire, Massachusetts</button>
+<button type="button" onclick="saveVisRightInputs('Massachusetts', 'Bristol')" class="dropdown-item" >Bristol, Massachusetts</button>
+<button type="button" onclick="saveVisRightInputs('Massachusetts', 'Essex')" class="dropdown-item" >Essex, Massachusetts</button>
+<button type="button" onclick="saveVisRightInputs('Massachusetts', 'Franklin')" class="dropdown-item" >Franklin, Massachusetts</button>
+<button type="button" onclick="saveVisRightInputs('Massachusetts', 'Hampden')" class="dropdown-item" >Hampden, Massachusetts</button>
+<button type="button" onclick="saveVisRightInputs('Massachusetts', 'Middlesex')" class="dropdown-item" >Middlesex, Massachusetts</button>
+<button type="button" onclick="saveVisRightInputs('Massachusetts', 'Norfolk')" class="dropdown-item" >Norfolk, Massachusetts</button>
+<button type="button" onclick="saveVisRightInputs('Massachusetts', 'Suffolk')" class="dropdown-item" >Suffolk, Massachusetts</button>
+<button type="button" onclick="saveVisRightInputs('Massachusetts', 'Worcester')" class="dropdown-item" >Worcester, Massachusetts</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Alger')" class="dropdown-item" >Alger, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Bay')" class="dropdown-item" >Bay, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Branch')" class="dropdown-item" >Branch, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Calhoun')" class="dropdown-item" >Calhoun, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Cass')" class="dropdown-item" >Cass, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Charlevoix')" class="dropdown-item" >Charlevoix, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Clinton')" class="dropdown-item" >Clinton, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Eaton')" class="dropdown-item" >Eaton, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Genesee')" class="dropdown-item" >Genesee, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Gratiot')" class="dropdown-item" >Gratiot, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Huron')" class="dropdown-item" >Huron, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Ingham')" class="dropdown-item" >Ingham, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Kent')" class="dropdown-item" >Kent, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Macomb')" class="dropdown-item" >Macomb, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Marquette')" class="dropdown-item" >Marquette, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Mason')" class="dropdown-item" >Mason, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Monroe')" class="dropdown-item" >Monroe, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Muskegon')" class="dropdown-item" >Muskegon, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Oakland')" class="dropdown-item" >Oakland, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Ontonagon')" class="dropdown-item" >Ontonagon, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Ottawa')" class="dropdown-item" >Ottawa, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Saginaw')" class="dropdown-item" >Saginaw, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'St. Clair')" class="dropdown-item" >St. Clair, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Washtenaw')" class="dropdown-item" >Washtenaw, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Michigan', 'Wayne')" class="dropdown-item" >Wayne, Michigan</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Anoka')" class="dropdown-item" >Anoka, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Blue Earth')" class="dropdown-item" >Blue Earth, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Dakota')" class="dropdown-item" >Dakota, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Hennepin')" class="dropdown-item" >Hennepin, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Itasca')" class="dropdown-item" >Itasca, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Lake')" class="dropdown-item" >Lake, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Olmsted')" class="dropdown-item" >Olmsted, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Ramsey')" class="dropdown-item" >Ramsey, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Saint Louis')" class="dropdown-item" >Saint Louis, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Sherburne')" class="dropdown-item" >Sherburne, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Stearns')" class="dropdown-item" >Stearns, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Washington')" class="dropdown-item" >Washington, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Minnesota', 'Wright')" class="dropdown-item" >Wright, Minnesota</button>
+<button type="button" onclick="saveVisRightInputs('Mississippi', 'DeSoto')" class="dropdown-item" >DeSoto, Mississippi</button>
+<button type="button" onclick="saveVisRightInputs('Mississippi', 'Harrison')" class="dropdown-item" >Harrison, Mississippi</button>
+<button type="button" onclick="saveVisRightInputs('Mississippi', 'Hinds')" class="dropdown-item" >Hinds, Mississippi</button>
+<button type="button" onclick="saveVisRightInputs('Mississippi', 'Jackson')" class="dropdown-item" >Jackson, Mississippi</button>
+<button type="button" onclick="saveVisRightInputs('Mississippi', 'Madison')" class="dropdown-item" >Madison, Mississippi</button>
+<button type="button" onclick="saveVisRightInputs('Mississippi', 'Warren')" class="dropdown-item" >Warren, Mississippi</button>
+<button type="button" onclick="saveVisRightInputs('Missouri', 'Clay')" class="dropdown-item" >Clay, Missouri</button>
+<button type="button" onclick="saveVisRightInputs('Missouri', 'Greene')" class="dropdown-item" >Greene, Missouri</button>
+<button type="button" onclick="saveVisRightInputs('Missouri', 'Iron')" class="dropdown-item" >Iron, Missouri</button>
+<button type="button" onclick="saveVisRightInputs('Missouri', 'Jackson')" class="dropdown-item" >Jackson, Missouri</button>
+<button type="button" onclick="saveVisRightInputs('Missouri', 'Madison')" class="dropdown-item" >Madison, Missouri</button>
+<button type="button" onclick="saveVisRightInputs('Missouri', 'Platte')" class="dropdown-item" >Platte, Missouri</button>
+<button type="button" onclick="saveVisRightInputs('Missouri', 'Saint Charles')" class="dropdown-item" >Saint Charles, Missouri</button>
+<button type="button" onclick="saveVisRightInputs('Missouri', 'Saint Louis')" class="dropdown-item" >Saint Louis, Missouri</button>
+<button type="button" onclick="saveVisRightInputs('Missouri', 'St. Louis City')" class="dropdown-item" >St. Louis City, Missouri</button>
+<button type="button" onclick="saveVisRightInputs('Montana', 'Cascade')" class="dropdown-item" >Cascade, Montana</button>
+<button type="button" onclick="saveVisRightInputs('Montana', 'Daniels')" class="dropdown-item" >Daniels, Montana</button>
+<button type="button" onclick="saveVisRightInputs('Montana', 'Deer Lodge')" class="dropdown-item" >Deer Lodge, Montana</button>
+<button type="button" onclick="saveVisRightInputs('Montana', 'Jefferson')" class="dropdown-item" >Jefferson, Montana</button>
+<button type="button" onclick="saveVisRightInputs('Montana', 'Lewis and Clark')" class="dropdown-item" >Lewis and Clark, Montana</button>
+<button type="button" onclick="saveVisRightInputs('Montana', 'Missoula')" class="dropdown-item" >Missoula, Montana</button>
+<button type="button" onclick="saveVisRightInputs('Montana', 'Rosebud')" class="dropdown-item" >Rosebud, Montana</button>
+<button type="button" onclick="saveVisRightInputs('Montana', 'Silver Bow')" class="dropdown-item" >Silver Bow, Montana</button>
+<button type="button" onclick="saveVisRightInputs('Montana', 'Yellowstone')" class="dropdown-item" >Yellowstone, Montana</button>
+<button type="button" onclick="saveVisRightInputs('Nebraska', 'Custer')" class="dropdown-item" >Custer, Nebraska</button>
+<button type="button" onclick="saveVisRightInputs('Nebraska', 'Dakota')" class="dropdown-item" >Dakota, Nebraska</button>
+<button type="button" onclick="saveVisRightInputs('Nebraska', 'Douglas')" class="dropdown-item" >Douglas, Nebraska</button>
+<button type="button" onclick="saveVisRightInputs('Nebraska', 'Lancaster')" class="dropdown-item" >Lancaster, Nebraska</button>
+<button type="button" onclick="saveVisRightInputs('Nevada', 'Clark')" class="dropdown-item" >Clark, Nevada</button>
+<button type="button" onclick="saveVisRightInputs('Nevada', 'Washoe')" class="dropdown-item" >Washoe, Nevada</button>
+<button type="button" onclick="saveVisRightInputs('New Hampshire', 'Cheshire')" class="dropdown-item" >Cheshire, New Hampshire</button>
+<button type="button" onclick="saveVisRightInputs('New Hampshire', 'Coos')" class="dropdown-item" >Coos, New Hampshire</button>
+<button type="button" onclick="saveVisRightInputs('New Hampshire', 'Hillsborough')" class="dropdown-item" >Hillsborough, New Hampshire</button>
+<button type="button" onclick="saveVisRightInputs('New Hampshire', 'Rockingham')" class="dropdown-item" >Rockingham, New Hampshire</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Atlantic')" class="dropdown-item" >Atlantic, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Bergen')" class="dropdown-item" >Bergen, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Burlington')" class="dropdown-item" >Burlington, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Camden')" class="dropdown-item" >Camden, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Cape May')" class="dropdown-item" >Cape May, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Cumberland')" class="dropdown-item" >Cumberland, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Essex')" class="dropdown-item" >Essex, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Gloucester')" class="dropdown-item" >Gloucester, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Hudson')" class="dropdown-item" >Hudson, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Hunterdon')" class="dropdown-item" >Hunterdon, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Mercer')" class="dropdown-item" >Mercer, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Middlesex')" class="dropdown-item" >Middlesex, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Monmouth')" class="dropdown-item" >Monmouth, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Morris')" class="dropdown-item" >Morris, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Ocean')" class="dropdown-item" >Ocean, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Passaic')" class="dropdown-item" >Passaic, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Salem')" class="dropdown-item" >Salem, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Somerset')" class="dropdown-item" >Somerset, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Union')" class="dropdown-item" >Union, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Jersey', 'Warren')" class="dropdown-item" >Warren, New Jersey</button>
+<button type="button" onclick="saveVisRightInputs('New Mexico', 'Bernalillo')" class="dropdown-item" >Bernalillo, New Mexico</button>
+<button type="button" onclick="saveVisRightInputs('New Mexico', 'Dona Ana')" class="dropdown-item" >Dona Ana, New Mexico</button>
+<button type="button" onclick="saveVisRightInputs('New Mexico', 'Grant')" class="dropdown-item" >Grant, New Mexico</button>
+<button type="button" onclick="saveVisRightInputs('New Mexico', 'Hidalgo')" class="dropdown-item" >Hidalgo, New Mexico</button>
+<button type="button" onclick="saveVisRightInputs('New Mexico', 'San Juan')" class="dropdown-item" >San Juan, New Mexico</button>
+<button type="button" onclick="saveVisRightInputs('New Mexico', 'Santa Fe')" class="dropdown-item" >Santa Fe, New Mexico</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Albany')" class="dropdown-item" >Albany, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Bronx')" class="dropdown-item" >Bronx, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Broome')" class="dropdown-item" >Broome, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Chautauqua')" class="dropdown-item" >Chautauqua, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Chemung')" class="dropdown-item" >Chemung, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Dutchess')" class="dropdown-item" >Dutchess, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Erie')" class="dropdown-item" >Erie, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Essex')" class="dropdown-item" >Essex, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Kings')" class="dropdown-item" >Kings, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Monroe')" class="dropdown-item" >Monroe, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Nassau')" class="dropdown-item" >Nassau, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'New York')" class="dropdown-item" >New York, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Niagara')" class="dropdown-item" >Niagara, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Oneida')" class="dropdown-item" >Oneida, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Onondaga')" class="dropdown-item" >Onondaga, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Queens')" class="dropdown-item" >Queens, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Rensselaer')" class="dropdown-item" >Rensselaer, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Richmond')" class="dropdown-item" >Richmond, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Schenectady')" class="dropdown-item" >Schenectady, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'St. Lawrence')" class="dropdown-item" >St. Lawrence, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Suffolk')" class="dropdown-item" >Suffolk, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Warren')" class="dropdown-item" >Warren, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Wayne')" class="dropdown-item" >Wayne, New York</button>
+<button type="button" onclick="saveVisRightInputs('New York', 'Westchester')" class="dropdown-item" >Westchester, New York</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Beaufort')" class="dropdown-item" >Beaufort, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Buncombe')" class="dropdown-item" >Buncombe, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Columbus')" class="dropdown-item" >Columbus, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Durham')" class="dropdown-item" >Durham, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Forsyth')" class="dropdown-item" >Forsyth, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Granville')" class="dropdown-item" >Granville, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Guilford')" class="dropdown-item" >Guilford, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Iredell')" class="dropdown-item" >Iredell, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Jones')" class="dropdown-item" >Jones, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Mecklenburg')" class="dropdown-item" >Mecklenburg, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'New Hanover')" class="dropdown-item" >New Hanover, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Carolina', 'Wake')" class="dropdown-item" >Wake, North Carolina</button>
+<button type="button" onclick="saveVisRightInputs('North Dakota', 'Billings')" class="dropdown-item" >Billings, North Dakota</button>
+<button type="button" onclick="saveVisRightInputs('North Dakota', 'Dunn')" class="dropdown-item" >Dunn, North Dakota</button>
+<button type="button" onclick="saveVisRightInputs('North Dakota', 'McKenzie')" class="dropdown-item" >McKenzie, North Dakota</button>
+<button type="button" onclick="saveVisRightInputs('North Dakota', 'Mercer')" class="dropdown-item" >Mercer, North Dakota</button>
+<button type="button" onclick="saveVisRightInputs('North Dakota', 'Oliver')" class="dropdown-item" >Oliver, North Dakota</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Allen')" class="dropdown-item" >Allen, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Ashtabula')" class="dropdown-item" >Ashtabula, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Butler')" class="dropdown-item" >Butler, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Clark')" class="dropdown-item" >Clark, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Clermont')" class="dropdown-item" >Clermont, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Clinton')" class="dropdown-item" >Clinton, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Columbiana')" class="dropdown-item" >Columbiana, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Coshocton')" class="dropdown-item" >Coshocton, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Cuyahoga')" class="dropdown-item" >Cuyahoga, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Franklin')" class="dropdown-item" >Franklin, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Hamilton')" class="dropdown-item" >Hamilton, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Hocking')" class="dropdown-item" >Hocking, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Jefferson')" class="dropdown-item" >Jefferson, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Lake')" class="dropdown-item" >Lake, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Lawrence')" class="dropdown-item" >Lawrence, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Lorain')" class="dropdown-item" >Lorain, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Lucas')" class="dropdown-item" >Lucas, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Mahoning')" class="dropdown-item" >Mahoning, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Medina')" class="dropdown-item" >Medina, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Meigs')" class="dropdown-item" >Meigs, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Monroe')" class="dropdown-item" >Monroe, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Montgomery')" class="dropdown-item" >Montgomery, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Portage')" class="dropdown-item" >Portage, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Preble')" class="dropdown-item" >Preble, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Richland')" class="dropdown-item" >Richland, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Scioto')" class="dropdown-item" >Scioto, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Stark')" class="dropdown-item" >Stark, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Summit')" class="dropdown-item" >Summit, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Trumbull')" class="dropdown-item" >Trumbull, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Tuscarawas')" class="dropdown-item" >Tuscarawas, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Ohio', 'Warren')" class="dropdown-item" >Warren, Ohio</button>
+<button type="button" onclick="saveVisRightInputs('Oklahoma', 'Cleveland')" class="dropdown-item" >Cleveland, Oklahoma</button>
+<button type="button" onclick="saveVisRightInputs('Oklahoma', 'Garvin')" class="dropdown-item" >Garvin, Oklahoma</button>
+<button type="button" onclick="saveVisRightInputs('Oklahoma', 'Oklahoma')" class="dropdown-item" >Oklahoma, Oklahoma</button>
+<button type="button" onclick="saveVisRightInputs('Oklahoma', 'Stephens')" class="dropdown-item" >Stephens, Oklahoma</button>
+<button type="button" onclick="saveVisRightInputs('Oklahoma', 'Tulsa')" class="dropdown-item" >Tulsa, Oklahoma</button>
+<button type="button" onclick="saveVisRightInputs('Oregon', 'Clackamas')" class="dropdown-item" >Clackamas, Oregon</button>
+<button type="button" onclick="saveVisRightInputs('Oregon', 'Columbia')" class="dropdown-item" >Columbia, Oregon</button>
+<button type="button" onclick="saveVisRightInputs('Oregon', 'Crook')" class="dropdown-item" >Crook, Oregon</button>
+<button type="button" onclick="saveVisRightInputs('Oregon', 'Jackson')" class="dropdown-item" >Jackson, Oregon</button>
+<button type="button" onclick="saveVisRightInputs('Oregon', 'Lane')" class="dropdown-item" >Lane, Oregon</button>
+<button type="button" onclick="saveVisRightInputs('Oregon', 'Marion')" class="dropdown-item" >Marion, Oregon</button>
+<button type="button" onclick="saveVisRightInputs('Oregon', 'Multnomah')" class="dropdown-item" >Multnomah, Oregon</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Allegheny')" class="dropdown-item" >Allegheny, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Beaver')" class="dropdown-item" >Beaver, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Berks')" class="dropdown-item" >Berks, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Blair')" class="dropdown-item" >Blair, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Bucks')" class="dropdown-item" >Bucks, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Butler')" class="dropdown-item" >Butler, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Cambria')" class="dropdown-item" >Cambria, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Dauphin')" class="dropdown-item" >Dauphin, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Delaware')" class="dropdown-item" >Delaware, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Erie')" class="dropdown-item" >Erie, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Lackawanna')" class="dropdown-item" >Lackawanna, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Lancaster')" class="dropdown-item" >Lancaster, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Lawrence')" class="dropdown-item" >Lawrence, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Lehigh')" class="dropdown-item" >Lehigh, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Luzerne')" class="dropdown-item" >Luzerne, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Lycoming')" class="dropdown-item" >Lycoming, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Montgomery')" class="dropdown-item" >Montgomery, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Northampton')" class="dropdown-item" >Northampton, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Perry')" class="dropdown-item" >Perry, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Philadelphia')" class="dropdown-item" >Philadelphia, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Washington')" class="dropdown-item" >Washington, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'Westmoreland')" class="dropdown-item" >Westmoreland, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Pennsylvania', 'York')" class="dropdown-item" >York, Pennsylvania</button>
+<button type="button" onclick="saveVisRightInputs('Puerto Rico', 'Bayamon')" class="dropdown-item" >Bayamon, Puerto Rico</button>
+<button type="button" onclick="saveVisRightInputs('Puerto Rico', 'Guayama')" class="dropdown-item" >Guayama, Puerto Rico</button>
+<button type="button" onclick="saveVisRightInputs('Puerto Rico', 'Guayanilla')" class="dropdown-item" >Guayanilla, Puerto Rico</button>
+<button type="button" onclick="saveVisRightInputs('Puerto Rico', 'Guaynabo')" class="dropdown-item" >Guaynabo, Puerto Rico</button>
+<button type="button" onclick="saveVisRightInputs('Puerto Rico', 'Toa Baja')" class="dropdown-item" >Toa Baja, Puerto Rico</button>
+<button type="button" onclick="saveVisRightInputs('Rhode Island', 'Kent')" class="dropdown-item" >Kent, Rhode Island</button>
+<button type="button" onclick="saveVisRightInputs('Rhode Island', 'Providence')" class="dropdown-item" >Providence, Rhode Island</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Aiken')" class="dropdown-item" >Aiken, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Beaufort')" class="dropdown-item" >Beaufort, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Berkeley')" class="dropdown-item" >Berkeley, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Charleston')" class="dropdown-item" >Charleston, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Chester')" class="dropdown-item" >Chester, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Colleton')" class="dropdown-item" >Colleton, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Darlington')" class="dropdown-item" >Darlington, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Edgefield')" class="dropdown-item" >Edgefield, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Georgetown')" class="dropdown-item" >Georgetown, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Greenville')" class="dropdown-item" >Greenville, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Horry')" class="dropdown-item" >Horry, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Lexington')" class="dropdown-item" >Lexington, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Pickens')" class="dropdown-item" >Pickens, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'Richland')" class="dropdown-item" >Richland, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('South Carolina', 'York')" class="dropdown-item" >York, South Carolina</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Anderson')" class="dropdown-item" >Anderson, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Benton')" class="dropdown-item" >Benton, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Blount')" class="dropdown-item" >Blount, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Cocke')" class="dropdown-item" >Cocke, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Davidson')" class="dropdown-item" >Davidson, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Giles')" class="dropdown-item" >Giles, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Hamilton')" class="dropdown-item" >Hamilton, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Hawkins')" class="dropdown-item" >Hawkins, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Houston')" class="dropdown-item" >Houston, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Humphreys')" class="dropdown-item" >Humphreys, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Knox')" class="dropdown-item" >Knox, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Maury')" class="dropdown-item" >Maury, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Meigs')" class="dropdown-item" >Meigs, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Monroe')" class="dropdown-item" >Monroe, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Montgomery')" class="dropdown-item" >Montgomery, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Morgan')" class="dropdown-item" >Morgan, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Polk')" class="dropdown-item" >Polk, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Rhea')" class="dropdown-item" >Rhea, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Roane')" class="dropdown-item" >Roane, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Shelby')" class="dropdown-item" >Shelby, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Stewart')" class="dropdown-item" >Stewart, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Sullivan')" class="dropdown-item" >Sullivan, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Sumner')" class="dropdown-item" >Sumner, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Tennessee', 'Wilson')" class="dropdown-item" >Wilson, Tennessee</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Bexar')" class="dropdown-item" >Bexar, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Brazoria')" class="dropdown-item" >Brazoria, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Cameron')" class="dropdown-item" >Cameron, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Dallas')" class="dropdown-item" >Dallas, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Ector')" class="dropdown-item" >Ector, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'El Paso')" class="dropdown-item" >El Paso, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Galveston')" class="dropdown-item" >Galveston, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Gregg')" class="dropdown-item" >Gregg, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Harris')" class="dropdown-item" >Harris, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Hutchinson')" class="dropdown-item" >Hutchinson, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Jefferson')" class="dropdown-item" >Jefferson, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Nueces')" class="dropdown-item" >Nueces, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Orange')" class="dropdown-item" >Orange, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Potter')" class="dropdown-item" >Potter, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Tarrant')" class="dropdown-item" >Tarrant, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Texas', 'Travis')" class="dropdown-item" >Travis, Texas</button>
+<button type="button" onclick="saveVisRightInputs('Utah', 'Davis')" class="dropdown-item" >Davis, Utah</button>
+<button type="button" onclick="saveVisRightInputs('Utah', 'Emery')" class="dropdown-item" >Emery, Utah</button>
+<button type="button" onclick="saveVisRightInputs('Utah', 'Grand')" class="dropdown-item" >Grand, Utah</button>
+<button type="button" onclick="saveVisRightInputs('Utah', 'Iron')" class="dropdown-item" >Iron, Utah</button>
+<button type="button" onclick="saveVisRightInputs('Utah', 'Salt Lake')" class="dropdown-item" >Salt Lake, Utah</button>
+<button type="button" onclick="saveVisRightInputs('Utah', 'Tooele')" class="dropdown-item" >Tooele, Utah</button>
+<button type="button" onclick="saveVisRightInputs('Utah', 'Uintah')" class="dropdown-item" >Uintah, Utah</button>
+<button type="button" onclick="saveVisRightInputs('Utah', 'Utah')" class="dropdown-item" >Utah, Utah</button>
+<button type="button" onclick="saveVisRightInputs('Utah', 'Weber')" class="dropdown-item" >Weber, Utah</button>
+<button type="button" onclick="saveVisRightInputs('Vermont', 'Addison')" class="dropdown-item" >Addison, Vermont</button>
+<button type="button" onclick="saveVisRightInputs('Vermont', 'Bennington')" class="dropdown-item" >Bennington, Vermont</button>
+<button type="button" onclick="saveVisRightInputs('Vermont', 'Chittenden')" class="dropdown-item" >Chittenden, Vermont</button>
+<button type="button" onclick="saveVisRightInputs('Vermont', 'Rutland')" class="dropdown-item" >Rutland, Vermont</button>
+<button type="button" onclick="saveVisRightInputs('Vermont', 'Washington')" class="dropdown-item" >Washington, Vermont</button>
+<button type="button" onclick="saveVisRightInputs('Vermont', 'Windsor')" class="dropdown-item" >Windsor, Vermont</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Alexandria City')" class="dropdown-item" >Alexandria City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Arlington')" class="dropdown-item" >Arlington, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Bristol City')" class="dropdown-item" >Bristol City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Chesapeake City')" class="dropdown-item" >Chesapeake City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Chesterfield')" class="dropdown-item" >Chesterfield, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Fairfax')" class="dropdown-item" >Fairfax, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Fairfax City')" class="dropdown-item" >Fairfax City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Fredericksburg City')" class="dropdown-item" >Fredericksburg City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Hampton City')" class="dropdown-item" >Hampton City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Hanover')" class="dropdown-item" >Hanover, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Henrico')" class="dropdown-item" >Henrico, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Hopewell City')" class="dropdown-item" >Hopewell City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Newport News City')" class="dropdown-item" >Newport News City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Norfolk City')" class="dropdown-item" >Norfolk City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Northampton')" class="dropdown-item" >Northampton, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Prince William')" class="dropdown-item" >Prince William, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Richmond City')" class="dropdown-item" >Richmond City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Salem City')" class="dropdown-item" >Salem City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Smyth')" class="dropdown-item" >Smyth, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Virginia', 'Virginia Beach City')" class="dropdown-item" >Virginia Beach City, Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Washington', 'Clallam')" class="dropdown-item" >Clallam, Washington</button>
+<button type="button" onclick="saveVisRightInputs('Washington', 'Clark')" class="dropdown-item" >Clark, Washington</button>
+<button type="button" onclick="saveVisRightInputs('Washington', 'Cowlitz')" class="dropdown-item" >Cowlitz, Washington</button>
+<button type="button" onclick="saveVisRightInputs('Washington', 'King')" class="dropdown-item" >King, Washington</button>
+<button type="button" onclick="saveVisRightInputs('Washington', 'Pierce')" class="dropdown-item" >Pierce, Washington</button>
+<button type="button" onclick="saveVisRightInputs('Washington', 'Snohomish')" class="dropdown-item" >Snohomish, Washington</button>
+<button type="button" onclick="saveVisRightInputs('Washington', 'Spokane')" class="dropdown-item" >Spokane, Washington</button>
+<button type="button" onclick="saveVisRightInputs('Washington', 'Yakima')" class="dropdown-item" >Yakima, Washington</button>
+<button type="button" onclick="saveVisRightInputs('West Virginia', 'Brooke')" class="dropdown-item" >Brooke, West Virginia</button>
+<button type="button" onclick="saveVisRightInputs('West Virginia', 'Greenbrier')" class="dropdown-item" >Greenbrier, West Virginia</button>
+<button type="button" onclick="saveVisRightInputs('West Virginia', 'Hancock')" class="dropdown-item" >Hancock, West Virginia</button>
+<button type="button" onclick="saveVisRightInputs('West Virginia', 'Kanawha')" class="dropdown-item" >Kanawha, West Virginia</button>
+<button type="button" onclick="saveVisRightInputs('West Virginia', 'Ohio')" class="dropdown-item" >Ohio, West Virginia</button>
+<button type="button" onclick="saveVisRightInputs('West Virginia', 'Wood')" class="dropdown-item" >Wood, West Virginia</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Brown')" class="dropdown-item" >Brown, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Buffalo')" class="dropdown-item" >Buffalo, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Chippewa')" class="dropdown-item" >Chippewa, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Columbia')" class="dropdown-item" >Columbia, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Dane')" class="dropdown-item" >Dane, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Douglas')" class="dropdown-item" >Douglas, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Dunn')" class="dropdown-item" >Dunn, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Eau Claire')" class="dropdown-item" >Eau Claire, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Grant')" class="dropdown-item" >Grant, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Kenosha')" class="dropdown-item" >Kenosha, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'La Crosse')" class="dropdown-item" >La Crosse, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Marathon')" class="dropdown-item" >Marathon, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Milwaukee')" class="dropdown-item" >Milwaukee, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Oconto')" class="dropdown-item" >Oconto, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Oneida')" class="dropdown-item" >Oneida, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Outagamie')" class="dropdown-item" >Outagamie, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Ozaukee')" class="dropdown-item" >Ozaukee, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Portage')" class="dropdown-item" >Portage, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Price')" class="dropdown-item" >Price, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Racine')" class="dropdown-item" >Racine, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Rock')" class="dropdown-item" >Rock, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Sheboygan')" class="dropdown-item" >Sheboygan, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'St. Croix')" class="dropdown-item" >St. Croix, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Taylor')" class="dropdown-item" >Taylor, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Vernon')" class="dropdown-item" >Vernon, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Walworth')" class="dropdown-item" >Walworth, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Washington')" class="dropdown-item" >Washington, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Waukesha')" class="dropdown-item" >Waukesha, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Winnebago')" class="dropdown-item" >Winnebago, Wisconsin</button>
+<button type="button" onclick="saveVisRightInputs('Wisconsin', 'Wood')" class="dropdown-item" >Wood, Wisconsin</button>
+
